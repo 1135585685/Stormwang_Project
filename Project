@@ -1,0 +1,7 @@
+echo "# Stormwang_Project" >> README.md 
+git init 
+git add README.md 
+git commit -m “第一次提交” 
+git 分支 -Mgit 主
+添加远程原点https://github.com/1135585685/Stormwang_Project.git
+ git Push - u 起源主要
